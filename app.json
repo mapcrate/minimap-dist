@@ -1,5 +1,5 @@
 {
-  "version": "0.2.6",
-  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.6/minimap.exe",
-  "notes": "Layered cached renderer — much smoother panning on low-end devices; foundation for cheap live/DMA overlays."
+  "version": "0.2.7",
+  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.7/minimap.exe",
+  "notes": "Reverted the layered cache (it hurt panning on low-end GPUs) — back to direct async-tile rendering."
 }
