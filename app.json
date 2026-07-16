@@ -1,0 +1,5 @@
+{
+  "version": "0.2.3",
+  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.3/minimap.exe",
+  "notes": "Floors switch with number keys (on-screen floor buttons removed). App self-update moved to its own channel."
+}
