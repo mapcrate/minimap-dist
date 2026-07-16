@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
-  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.4/minimap.exe",
-  "notes": "Async tile loading — smooth panning with progressive fill. Floors via number keys. Own update channel."
+  "version": "0.2.5",
+  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.5/minimap.exe",
+  "notes": "Update screen while self-updating; faster tile scaling and fewer tiles per view (perf on low-end devices)."
 }
