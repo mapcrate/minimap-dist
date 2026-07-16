@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.3/minimap.exe",
-  "notes": "Floors switch with number keys (on-screen floor buttons removed). App self-update moved to its own channel."
+  "version": "0.2.4",
+  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.4/minimap.exe",
+  "notes": "Async tile loading — smooth panning with progressive fill. Floors via number keys. Own update channel."
 }
