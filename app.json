@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
-  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.5/minimap.exe",
-  "notes": "Update screen while self-updating; faster tile scaling and fewer tiles per view (perf on low-end devices)."
+  "version": "0.2.6",
+  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.6/minimap.exe",
+  "notes": "Layered cached renderer — much smoother panning on low-end devices; foundation for cheap live/DMA overlays."
 }
