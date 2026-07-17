@@ -1,5 +1,5 @@
 {
-  "version": "0.2.8",
-  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.8/minimap.exe",
-  "notes": "Stationary base cache — overlay/hover redraws no longer re-render tiles (panning unchanged); groundwork for cheap live/DMA overlays."
+  "version": "0.2.9",
+  "url": "https://github.com/mapcrate/minimap-dist/releases/download/v0.2.9/minimap.exe",
+  "notes": "Smoother panning on weak devices (tile loader: capped decode concurrency + coalesced repaints). New plugin market — pick a quality variant at install."
 }
